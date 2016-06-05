@@ -48,3 +48,4 @@ https://fashiontec.wordpress.com/feed/
 http://shivamkhandelwal.in/category/gsoc/feed/
 https://blog.bovan.me/rss.xml
 http://karansaxena.blogspot.com/feeds/posts/default/-/GSOC
+https://hrishikesh2627.blogspot.in/2016/06/some-tips-to-get-your-gsoc-proposal.html
